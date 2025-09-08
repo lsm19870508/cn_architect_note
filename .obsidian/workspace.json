@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "7f59abe57b542cef",
+    "type": "split",
+    "children": [
+      {
+        "id": "22c3d4871ddd1273",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ab8c4d2106bd4b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "架构/UML图.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UML图"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "926ad5f2cd37e933",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1d74c4a3f2587e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7f0075c6f03d3d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ab05fef7dd4fd59d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6fcc0dca33843304",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "678b9890759614c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "67f03d1f82e2999e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aa4ba170728933f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "架构/UML图.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "UML图 的反向链接列表"
+            }
+          },
+          {
+            "id": "28183d68dbad85d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "架构/UML图.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "UML图 的出链列表"
+            }
+          },
+          {
+            "id": "3845d7aa6535dc6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a48c0986fc056a01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "架构/UML图.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "UML图 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true
+    }
+  },
+  "active": "8ab8c4d2106bd4b4",
+  "lastOpenFiles": [
+    "架构/UML图.md.baiduyun.uploading.cfg",
+    "架构/未命名.md.baiduyun.uploading.cfg",
+    "架构/ABSD方法.md",
+    "架构/UML图.md",
+    "架构/ABSD方法.md.baiduyun.uploading.cfg",
+    "5a10b9d238bf8e23fa7d29fa1ef9365c_32b88f37323345729c06170356b20346.png.baiduyun.uploading.cfg",
+    "5a10b9d238bf8e23fa7d29fa1ef9365c_32b88f37323345729c06170356b20346.png",
+    "dafab3c12f92efbba9c543604a585459_5fdb05e391d54315b3f9ec1e8b172b23.png.baiduyun.uploading.cfg",
+    "dafab3c12f92efbba9c543604a585459_5fdb05e391d54315b3f9ec1e8b172b23.png",
+    "架构/逆向工程分级.md",
+    "架构/逆向工程分级.md.baiduyun.uploading.cfg",
+    "架构/遗留系统的演化.md",
+    "架构/遗留系统的演化.md.baiduyun.uploading.cfg",
+    "36357e75844dcc9b5b61bb90c6ee9640_b639d1ecf111821a6dc40b3bd9d90e34.png.baiduyun.uploading.cfg",
+    "36357e75844dcc9b5b61bb90c6ee9640_b639d1ecf111821a6dc40b3bd9d90e34.png",
+    "架构/企业信息集成.md",
+    "架构/企业信息集成.md.baiduyun.uploading.cfg",
+    "错题/层次化网络设计原则.md",
+    "错题/层次化网络设计原则.md.baiduyun.uploading.cfg",
+    "错题/同步与互斥.md",
+    "错题/同步与互斥.md.baiduyun.uploading.cfg",
+    "架构/关系代数运算符.md",
+    "架构/连接性与函数依赖.md",
+    "Pasted image 20250903175629.png",
+    "架构/PV操作.md",
+    "架构/测试与文档对应关系.md",
+    "架构/数据库范式.md",
+    "架构/RUP的4个阶段.md",
+    "Pasted image 20250903155428.png",
+    "架构/杂项/应用服务器.md",
+    "架构/杂项/领域驱动设计.md",
+    "架构/背诵/敏感点、权衡点.md",
+    "架构/背诵/系统架构风险.md",
+    "架构/NDB基于网络的数据库系统.md",
+    "架构/白盒覆盖.md",
+    "架构/23种设计模式.md",
+    "错题/SDN(Software Defined Netwok).md",
+    "架构/实体类、边界类、控制类.md",
+    "架构/数据集成、接口继承、方法集成和接口集成.md",
+    "错题/COM+两种形式的对象组装.md",
+    "架构/七种耦合.md",
+    "架构/设计模式.canvas",
+    "未命名.canvas"
+  ]
+}
