@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "架构/UML图.md",
+                "file": "错题/面向服务架构(SOA).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UML图"
+              "title": "面向服务架构(SOA)"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "架构/UML图.md",
+                "file": "错题/面向服务架构(SOA).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "UML图 的大纲"
+              "title": "面向服务架构(SOA) 的大纲"
             }
           }
         ],
@@ -166,18 +166,36 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": true
+      "bases:创建新数据库": false
     }
   },
   "active": "8ab8c4d2106bd4b4",
   "lastOpenFiles": [
+    "错题/软件性能测试.md",
+    "错题/同步与互斥.md",
+    "错题/面向服务架构(SOA).md",
+    "架构/边缘计算.md",
+    "错题/中断.md",
+    "错题/无服务架构.md",
+    "架构/UML图.md",
+    "31ec2d4d82a0b6b9e6f16dde9ff721cd_Center.gif",
+    "d37db598a0905520df717c916095bf7b_v2-1874acbd24bd382908e09e86acd54242_1440w.jpg",
+    "e8042a2eb007c5e86eb0d41b58bf2d66_4191f51346a9455faced604f611d229d.png",
+    "ba3724f1b9a6209d34e1cb2292605378_u=2967414351,2478315014&fm=253&fmt=auto&app=138&f=JPEG_w=593&h=500 1.webp",
+    "架构/SAAM.md",
+    "ba3724f1b9a6209d34e1cb2292605378_u=2967414351,2478315014&fm=253&fmt=auto&app=138&f=JPEG_w=593&h=500.webp",
+    "架构/连接性与函数依赖.md",
+    "架构/关系代数运算符.md",
+    "架构/ABSD方法.md",
+    "架构/Armstrong公理.md",
+    "架构/CMM与CMMI.md",
+    "架构/NDB基于网络的数据库系统.md",
+    "架构/RUP的4个阶段.md",
+    "架构/PV操作.md",
+    "Pasted image 20250908132910.png",
+    "架构/企业信息集成.md",
     "架构/UML图.md.baiduyun.uploading.cfg",
     "架构/未命名.md.baiduyun.uploading.cfg",
-    "架构/ABSD方法.md",
-    "架构/UML图.md",
     "架构/ABSD方法.md.baiduyun.uploading.cfg",
     "5a10b9d238bf8e23fa7d29fa1ef9365c_32b88f37323345729c06170356b20346.png.baiduyun.uploading.cfg",
     "5a10b9d238bf8e23fa7d29fa1ef9365c_32b88f37323345729c06170356b20346.png",
@@ -189,32 +207,16 @@
     "架构/遗留系统的演化.md.baiduyun.uploading.cfg",
     "36357e75844dcc9b5b61bb90c6ee9640_b639d1ecf111821a6dc40b3bd9d90e34.png.baiduyun.uploading.cfg",
     "36357e75844dcc9b5b61bb90c6ee9640_b639d1ecf111821a6dc40b3bd9d90e34.png",
-    "架构/企业信息集成.md",
     "架构/企业信息集成.md.baiduyun.uploading.cfg",
     "错题/层次化网络设计原则.md",
     "错题/层次化网络设计原则.md.baiduyun.uploading.cfg",
-    "错题/同步与互斥.md",
-    "错题/同步与互斥.md.baiduyun.uploading.cfg",
-    "架构/关系代数运算符.md",
-    "架构/连接性与函数依赖.md",
     "Pasted image 20250903175629.png",
-    "架构/PV操作.md",
     "架构/测试与文档对应关系.md",
     "架构/数据库范式.md",
-    "架构/RUP的4个阶段.md",
-    "Pasted image 20250903155428.png",
     "架构/杂项/应用服务器.md",
     "架构/杂项/领域驱动设计.md",
     "架构/背诵/敏感点、权衡点.md",
     "架构/背诵/系统架构风险.md",
-    "架构/NDB基于网络的数据库系统.md",
-    "架构/白盒覆盖.md",
-    "架构/23种设计模式.md",
-    "错题/SDN(Software Defined Netwok).md",
-    "架构/实体类、边界类、控制类.md",
-    "架构/数据集成、接口继承、方法集成和接口集成.md",
-    "错题/COM+两种形式的对象组装.md",
-    "架构/七种耦合.md",
     "架构/设计模式.canvas",
     "未命名.canvas"
   ]
