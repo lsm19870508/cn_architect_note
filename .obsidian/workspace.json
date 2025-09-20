@@ -11,14 +11,12 @@
             "id": "8ab8c4d2106bd4b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "错题/面向服务架构(SOA).md",
-                "mode": "source",
-                "source": false
+                "file": "其它资料/2024年系统架构设计师架构知识点集锦精华版【学员版】.pdf"
               },
-              "icon": "lucide-file",
-              "title": "面向服务架构(SOA)"
+              "icon": "lucide-file-text",
+              "title": "2024年系统架构设计师架构知识点集锦精华版【学员版】"
             }
           }
         ]
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "错题/面向服务架构(SOA).md",
+                "file": "其它资料/2024年系统架构设计师架构知识点集锦精华版【学员版】.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "面向服务架构(SOA) 的大纲"
+              "title": "2024年系统架构设计师架构知识点集锦精华版【学员版】 的大纲"
             }
           }
         ],
@@ -171,9 +169,9 @@
   },
   "active": "8ab8c4d2106bd4b4",
   "lastOpenFiles": [
+    "错题/面向服务架构(SOA).md",
     "错题/软件性能测试.md",
     "错题/同步与互斥.md",
-    "错题/面向服务架构(SOA).md",
     "架构/边缘计算.md",
     "错题/中断.md",
     "错题/无服务架构.md",
